@@ -1,4 +1,4 @@
 SlideCutListView
 ================
 
-Android ListView左右滑动删除item
+Android ListView item左右滑动删除效果
